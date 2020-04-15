@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8a8b38468f9137b438064865ae9010a6
+timeCreated: 1586955476
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Against Modern Football
+  fontNames:
+  - Against Modern Football
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
